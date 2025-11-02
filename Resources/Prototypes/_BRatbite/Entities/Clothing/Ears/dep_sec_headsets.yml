@@ -46,9 +46,9 @@
       - EncryptionKeyEngineering
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _BRBites/Clothing/Ears/Headsets/engisentry.rsi
+    sprite: _BRatBites/Clothing/Ears/Headsets/engisentry.rsi
   - type: Clothing
-    sprite: _BRBites/Clothing/Ears/Headsets/engisentry.rsi
+    sprite: _BRatBites/Clothing/Ears/Headsets/engisentry.rsi
 
 - type: entity # Medical Orderly
   parent: ClothingHeadsetMedical
@@ -63,6 +63,6 @@
       - EncryptionKeyMedical
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _BRBites/Clothing/Ears/Headsets/medicalorderly.rsi
+    sprite: _BRatBites/Clothing/Ears/Headsets/medicalorderly.rsi
   - type: Clothing
-    sprite: _BRBites/Clothing/Ears/Headsets/medicalorderly.rsi
+    sprite: _BRatBites/Clothing/Ears/Headsets/medicalorderly.rsi

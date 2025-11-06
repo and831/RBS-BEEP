@@ -10,7 +10,7 @@
     - ShieldGunCaseBriefcase
 
 - type: selectableSet
-  id: SecEP12RSSet 
+  id: SecEP12RSSet
   name: selectable-set-security-EP12-name
   description: selectable-set-security-EP12-description
   sprite:
@@ -20,7 +20,7 @@
     - EP12GunCaseBriefcase
 
 - type: selectableSet
-  id: SecPEW1RSSet 
+  id: SecPEW1RSSet
   name: selectable-set-security-PEW1-name
   description: selectable-set-security-PEW1-description
   sprite:
@@ -40,7 +40,7 @@
     - MK58GunCaseBriefcase
 
 - type: selectableSet
-  id: SecLucktRSSet #RS = roundstart
+  id: SecLuckyRSSet #RS = roundstart
   name: selectable-set-security-lucky-name
   description: selectable-set-security-lucky-description
   sprite:

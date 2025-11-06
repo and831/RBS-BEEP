@@ -22,7 +22,7 @@
   description: Briefcase that hold MK-58 Pistol kit for security personal.
   components:
   - type: StorageFill
-    contents: 
+    contents:
       - id: WeaponPistolMk58
       - id: MagazinePistol
       - id: MagazinePistol
@@ -34,7 +34,7 @@
   description: Briefcase that hold EP-12 Energy Pistol kit for security personal.
   components:
   - type: StorageFill
-    contents: 
+    contents:
       - id: WeaponEnergyCellPistol
       - id: EnergyMagPistolLethal
       - id: EnergyMagPistolLethal
@@ -46,7 +46,7 @@
   description: Briefcase that hold PEW-1 Energy Pistol kit for security personal.
   components:
   - type: StorageFill
-    contents: 
+    contents:
       - id: WeaponLockedEnergyPistol
 
 - type: entity
@@ -58,9 +58,9 @@
   - type: Storage
     maxItemSize: Large
   - type: StorageFill
-    contents: 
+    contents:
       - id: SecurityEnergygShield
-      
+
 - type: entity
   id: LuckyGunCaseBriefcase
   parent: BaseGunCaseBriefcase
@@ -68,7 +68,7 @@
   description: Briefcase that hold Lucky Revolver kit for security personal.
   components:
   - type: StorageFill
-    contents: 
+    contents:
       - id: WeaponRevolverLuckySec
       - id: SpeedLoader38Magnum
       - id: SpeedLoader38Magnum

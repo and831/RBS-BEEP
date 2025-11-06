@@ -1,6 +1,6 @@
 # Energy projectile for EP12 and PEW1
 
-- type: entity 
+- type: entity
   name: Pistol energy bolt # yes i stole it from my old code cr-2
   id: PistolBulletEnergyGunLethal
   parent: BaseBullet
@@ -34,11 +34,11 @@
     impactEffect: BulletImpactEffectRedDisabler
     damage:
       types:
-        Heat: 16 
+        Heat: 16
     soundHit:
       collection: MeatLaserImpact
 
-- type: entity 
+- type: entity
   name: Pistol ion bolt
   id: PistolBulletEnergyGunIon
   parent: BaseBullet
@@ -77,7 +77,7 @@
     soundHit:
       collection: MeatLaserImpact
 
-- type: entity 
+- type: entity
   name: Pistol disabler bolt
   id: PistolBulletEnergyGunDisabler
   parent: BaseBullet
@@ -117,7 +117,7 @@
     soundHit:
       collection: MeatLaserImpact
 
-- type: entity 
+- type: entity
   name: Pistol weak energy bolt # i prob should rework the code above me
   id: PistolBulletEnergyGunLethalWeak
   parent: [BaseBullet]

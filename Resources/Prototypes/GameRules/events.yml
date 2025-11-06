@@ -1037,7 +1037,7 @@
     - id: KingRatMigration
     - id: NinjaSpawn
     - id: ParadoxCloneSpawn
-    - id: RevenantSpawn
+#    - id: RevenantSpawn #To be added back at a later date, I plan on making a seperate "table" for more problamatic antags that spawn less frequently, but for now rev is disabled
     - id: SleeperAgents
     - id: ZombieOutbreak
     - id: LoneOpsSpawn

@@ -4,7 +4,7 @@
   parent: BaseItem
   components:
   - type: Sprite
-    sprite: _BRatBites\Objects\Weapon\Ammunition\magazine\energypistolmag.rsi
+    sprite: _BRatBites/Objects/Weapon/Ammunition/magazine/energypistolmag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

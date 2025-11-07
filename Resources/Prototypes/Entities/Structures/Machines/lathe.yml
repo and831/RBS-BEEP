@@ -1138,7 +1138,7 @@
     idleState: icon
     runningState: building
     staticPacks:
-      DocumentPrinterForms
+    - DocumentPrinterForms
   - type: Fixtures
     fixtures:
       fix1:

@@ -435,6 +435,30 @@
     - TapeRecorderStatic
     - MiscSignallersStatic
   - type: EmagLatheRecipes
+    emagStaticRecipes:
+       - CartridgePistol
+       - CartridgeSpecial # DeltaV - .38 Special revolver
+       - CartridgeMagnum
+       - ShellShotgun
+       - ShellShotgunFlare
+       - ShellTranquilizer
+       - CartridgeLightRifle
+       - CartridgeRifle
+       - MagazineBoxPistol
+       - MagazineBoxMagnum
+       - MagazineBoxRifle
+       - MagazineBoxLightRifle
+    emagDynamicRecipes:
+      - ShellShotgunBeanbag
+      - ShellShotgunIncendiary
+      - CartridgePistolIncendiary
+      - CartridgeMagnumIncendiary
+      - CartridgeLightRifleIncendiary
+      - CartridgeRifleIncendiary
+      - MagazineBoxPistolIncendiary
+      - MagazineBoxMagnumIncendiary
+      - MagazineBoxLightRifleIncendiary
+      - MagazineBoxRifleIncendiary
     emagStaticPacks:
     - SecurityWeaponsStatic
     - SecurityAmmoStatic
@@ -741,6 +765,60 @@
   - type: Lathe
     idleState: icon
     runningState: icon
+    staticRecipes:
+      - ClothingEyesHudSecurity
+      - Flash
+      - Handcuffs
+      - Zipties
+      - Stunbaton
+      - ForensicPad
+      - ClothingEyesGlassesSecurity
+      - RiotShield
+      - ShellShotgun
+      - ShellShotgunFlare
+      - ShellTranquilizer
+      - MagazinePistol
+      - MagazinePistolSubMachineGun
+      - MagazinePistolSubMachineGunTopMounted
+      - MagazineRifle
+      - MagazineLightRifle
+      - MagazineBoxPistol
+      - MagazineBoxSpecial # DeltaV - .38 Special revolver
+      - MagazineBoxMagnum
+      - MagazineBoxRifle
+      - MagazineBoxLightRifle
+      - SpeedLoaderMagnum
+      - SpeedLoader38Special # DeltaV - .38 Special revolver Ratbite
+      - TargetHuman
+      - TargetSyndicate
+      - TargetClown
+    dynamicRecipes:
+      - ShellShotgunBeanbag
+      - ShellShotgunIncendiary
+      - CartridgePistolIncendiary
+      - CartridgeMagnumIncendiary
+      - CartridgeLightRifleIncendiary
+      - CartridgeRifleIncendiary
+      - MagazineBoxPistolIncendiary
+      - MagazineBoxMagnumIncendiary
+      - MagazineBoxLightRifleIncendiary
+      - MagazineBoxRifleIncendiary
+      - Signaller
+      - SignalTrigger
+      - VoiceTrigger
+      - TimerTrigger
+      - Truncheon
+      - TelescopicShield
+      - HoloprojectorSecurity
+      - FlashPayload
+      - ExplosivePayload
+      - WeaponLaserCarbine
+      - WeaponAdvancedLaser
+      - WeaponLaserCannon
+      - WeaponXrayCannon
+      - WeaponTaser
+      - ClothingHeadHelmetInsulated # Nyanotrasen - Insulative headgear
+      - ClothingHeadCage # Nyanotrasen - Insulative headgear
     staticPacks:
     - SecurityEquipmentStatic
     - SecurityPracticeStatic

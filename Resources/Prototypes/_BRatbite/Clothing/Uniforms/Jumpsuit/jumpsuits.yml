@@ -6,6 +6,6 @@
   description: These pants gives you the urge to robusting everyone.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/Jumpsuit/tider_pants.rsi
+    sprite: _BRatbite/Clothing/Uniforms/Jumpsuit/tiderpants.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/Jumpsuit/tider_pants.rsi
+    sprite: _BRatbite/Clothing/Uniforms/Jumpsuit/tiderpants.rsi

@@ -4,7 +4,7 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 11/22/2025 08:35:19
+  time: 11/22/2025 08:48:58
   entityCount: 13527
 maps:
 - 1
@@ -5677,7 +5677,7 @@ entities:
       pos: 33.5,-11.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -1649.9546
+      secondsUntilStateChange: -1818.2701
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -6032,7 +6032,7 @@ entities:
       pos: 33.5,-27.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -7655.761
+      secondsUntilStateChange: -7824.0767
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -31255,14 +31255,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -4.5,-14.5
       parent: 2
-- proto: ComputerSalvageExpedition
-  entities:
-  - uid: 4307
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 26.5,-26.5
-      parent: 2
 - proto: ComputerSalvageJobBoard
   entities:
   - uid: 4289
@@ -31281,6 +31273,12 @@ entities:
       parent: 2
 - proto: ComputerShuttleMiningLavaland
   entities:
+  - uid: 4307
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 26.5,-26.5
+      parent: 2
   - uid: 10264
     components:
     - type: Transform
@@ -38164,7 +38162,7 @@ entities:
       pos: 3.5,-21.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -12270.951
+      secondsUntilStateChange: -12439.267
       state: Closing
   - uid: 5357
     components:

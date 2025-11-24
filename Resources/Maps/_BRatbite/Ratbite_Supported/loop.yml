@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 11/24/2025 01:53:16
-  entityCount: 18680
+  time: 11/24/2025 06:35:29
+  entityCount: 18678
 maps:
 - 1
 grids:
@@ -8374,7 +8374,7 @@ entities:
       pos: -50.5,26.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -10981.18
+      secondsUntilStateChange: -11655.459
       state: Opening
     - type: AccessReader
       access:
@@ -79884,6 +79884,13 @@ entities:
       rot: 3.141592653589793 rad
       pos: -1.4779639,50.30927
       parent: 2
+- proto: HealiumCanister
+  entities:
+  - uid: 11922
+    components:
+    - type: Transform
+      pos: 10.5,21.5
+      parent: 2
 - proto: HighSecArmoryLocked
   entities:
   - uid: 11521
@@ -82823,11 +82830,6 @@ entities:
     components:
     - type: Transform
       pos: 16.5,9.5
-      parent: 2
-  - uid: 11922
-    components:
-    - type: Transform
-      pos: 10.5,21.5
       parent: 2
 - proto: NitrousOxideTankFilled
   entities:
@@ -91330,6 +91332,11 @@ entities:
     - type: Transform
       pos: -22.5,18.5
       parent: 2
+  - uid: 13613
+    components:
+    - type: Transform
+      pos: -22.5,13.5
+      parent: 2
   - uid: 13620
     components:
     - type: Transform
@@ -92829,12 +92836,6 @@ entities:
     components:
     - type: Transform
       pos: -71.5,79.5
-      parent: 2
-  - uid: 13613
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -22.5,13.5
       parent: 2
   - uid: 13614
     components:
@@ -98036,7 +98037,6 @@ entities:
   - uid: 14992
     components:
     - type: Transform
-      rot: -1.5707963267948966 rad
       pos: -49.5,27.5
       parent: 2
 - proto: SpawnPointResearchAssistant
@@ -103850,18 +103850,6 @@ entities:
     - type: Physics
       canCollide: False
     - type: InsideEntityStorage
-- proto: VehicleKeySecway
-  entities:
-  - uid: 18664
-    components:
-    - type: Transform
-      pos: -37.365685,44.64753
-      parent: 2
-  - uid: 18665
-    components:
-    - type: Transform
-      pos: -37.69381,44.506905
-      parent: 2
 - proto: VendingBarDrobe
   entities:
   - uid: 15266
